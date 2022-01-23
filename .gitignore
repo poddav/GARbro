@@ -1,0 +1,13 @@
+bin
+obj
+tags
+*.exe
+*.dll
+*.pdb
+*.suo
+*.pfx
+*.psess
+*.vsp
+*;*
+*~
+packages
